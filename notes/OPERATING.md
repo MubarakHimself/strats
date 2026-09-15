@@ -31,4 +31,4 @@ Each capture gets `meta.yaml`: id, title, kind, access, provenance, captured_at,
 Reference tool only (`sources/` pointer). Useful later for account-bound export of entitled studies — not for standing up a scrape farm on day one.
 
 ## Status
-Scaffold ready locally. Push to GitHub pending credentials on Firstmate’s computer.
+Scaffold live on GitHub `main` (`MubarakHimself/strats`). Store-first for now: capture into the right folder + `meta.yaml`; sort/curate later. Repo is public — treat `private/` and `invite-only/` carefully (do not push entitled material you are not willing to have public until privacy is revisited).

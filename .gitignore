@@ -1,0 +1,30 @@
+# Secrets / env
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+**/secrets/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Local export / capture staging (never push raw dumps)
+exports/
+export-staging/
+*.tvsession
+cookies.txt
+.tradingview/
+
+# Python / node local junk if tooling appears later
+__pycache__/
+*.pyc
+.venv/
+node_modules/
