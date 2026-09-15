@@ -1,0 +1,16 @@
+# Template for each capture. Copy beside the script/notes and fill in.
+# kind: indicator | strategy | note
+# access: public | private | invite-only
+# provenance: where it came from (URL, "manual paste", account export, etc.)
+# captured_at: YYYY-MM-DD
+# license: SPDX id or "unknown" / "invite-only-personal-archive"
+# tags: list of short strings
+
+id: ""
+title: ""
+kind: note
+access: private
+provenance: ""
+captured_at: ""
+license: unknown
+tags: []
